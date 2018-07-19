@@ -1,0 +1,8 @@
+.footer {
+  background-color: #131415;
+  height          : 75px;
+  margin-top      : -75px;
+  padding-top     : 11px;
+  padding-left    : 5px;
+  position        : relative;
+}

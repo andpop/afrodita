@@ -1,0 +1,16 @@
+.services__logo-text {
+  /* font-family: "Open Sans"; */
+  color         : #ffffff;
+  font-size     : 24px;
+  font-weight   : 700;
+  left          : 50%;
+  letter-spacing: 0.72px;
+  line-height   : 153px;
+  position      : absolute;
+  text-align    : center;
+  text-transform: uppercase;
+  transform     : translateX(-50%);
+  top           : 0;
+  z-index       : 1;
+}
+

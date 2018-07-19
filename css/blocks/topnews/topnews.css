@@ -1,0 +1,13 @@
+.topnews {
+  /* border       : 1px solid green; */
+  float      : right;
+  font-family: "Open Sans";
+  /* font-size     : 12px; */
+  letter-spacing: 2.4px;
+  line-height   : 21px;
+  /* padding-left  : 13px; */
+  /* padding-right : 18px; */
+  /* padding-top   : 30px; */
+  text-transform: uppercase;
+  width         : 160px;
+}

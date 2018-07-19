@@ -1,0 +1,12 @@
+.form__full-text {
+  background-color: #ffffff;
+  border          : none;
+  height          : 90px;
+  resize          : none;
+  width           : 561px;
+  /* overflow        : auto; */
+}
+
+.form__full-text:focus {
+  border: 1px solid #f89513;
+}

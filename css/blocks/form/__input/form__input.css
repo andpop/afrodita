@@ -1,0 +1,11 @@
+.form__input {
+  background-color : #fff;
+  background-origin: none;
+  border           : none;
+  height           : 45px;
+  width            : 269px;
+}
+
+.form__input:focus {
+  border: 1px solid #f89513;
+}

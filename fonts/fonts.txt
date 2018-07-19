@@ -1,0 +1,9 @@
+Open Sans - light 300
+Open Sans - regular 400
+Open Sans - extrabold 400 ?
+Open Sans - bold 700
+
+Roboto - light 300
+Roboto - bold 700
+
+Gora Free - regular 400

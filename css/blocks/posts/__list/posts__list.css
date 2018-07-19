@@ -1,0 +1,12 @@
+.posts__list {
+  /* border      : 1px solid magenta; */
+  box-sizing: border-box;
+  float     : left;
+  width     : 900px;
+}
+
+.posts__list--comments {
+  float        : none;
+  margin-bottom: 31px;
+  padding-left : 0;
+}

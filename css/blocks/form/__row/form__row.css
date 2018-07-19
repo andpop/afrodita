@@ -1,0 +1,7 @@
+.form__row {
+  margin-bottom: 15px;
+}
+
+.form__row:last-child {
+  margin-bottom: 0;
+}

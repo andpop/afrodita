@@ -1,0 +1,49 @@
+/* Навигационное меню из шапки */
+.menu__link {
+  color          : #ffffff;
+  text-decoration: none;
+  display        : inline-block;
+  vertical-align : middle;
+  transition     : color 0.4s ease;
+}
+
+.menu__link:hover {
+  color: #f89513;
+}
+
+.menu__link:before {
+  content            : '';
+  background-position: center center;
+  background-repeat  : no-repeat;
+  display            : inline-block;
+  height             : 20px;
+  margin-right       : 15px;
+  vertical-align     : middle;
+  width              : 20px;
+  transition         : background-image 0.4s ease;
+}
+
+
+.menu__link--main:before {
+  background-image: url("./../../../../img/menu/main-icon.png");
+}
+
+.menu__link--feed:before {
+  background-image: url("./../../../../img/menu/feed-icon.png");
+}
+
+.menu__link--service:before {
+  background-image: url("./../../../../img/menu/service-icon.png");
+}
+
+.menu__link--main:hover:before {
+  background-image: url("./../../../../img/menu/main-icon-hover.png");
+}
+
+.menu__link--feed:hover:before {
+  background-image: url("./../../../../img/menu/feed-icon-hover.png");
+}
+
+.menu__link--service:hover:before {
+  background-image: url("./../../../../img/menu/service-icon-hover.png");
+}

@@ -1,0 +1,9 @@
+/* Блоки из шапки */
+
+.header__menu {
+  float: left;
+  /* padding-top: 25px; */
+  padding-top: 13px;
+  text-align : center;
+  width      : 37%;
+}

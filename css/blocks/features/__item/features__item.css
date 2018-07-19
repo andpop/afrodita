@@ -1,0 +1,12 @@
+/************* Особенности ************************/
+
+.feautures__item {
+  display       : inline-block;
+  margin-right  : 60px;
+  vertical-align: top;
+  width         : 207px;
+}
+
+.feautures__item:last-child {
+  margin-right: 0;
+}

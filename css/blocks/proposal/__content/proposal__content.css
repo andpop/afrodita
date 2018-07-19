@@ -1,0 +1,7 @@
+.proposal__content {
+  width              : 1100px;
+  height             : 150px;
+  background-image   : url("../../../../img/proposal/proposal-bg.png");
+  background-position: center center;
+  background-repeat  : no-repeat;
+}

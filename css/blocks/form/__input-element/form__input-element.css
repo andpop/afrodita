@@ -1,0 +1,14 @@
+/* .form__input-element {
+  float: left;
+  width: 50%;
+} */
+
+.form__input-element--left {
+  float: left;
+  /* width: 50%; */
+}
+
+.form__input-element--right {
+  float: right;
+  /* width: 50%; */
+}

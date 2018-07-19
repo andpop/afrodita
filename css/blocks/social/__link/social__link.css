@@ -1,0 +1,45 @@
+/* .social__link {
+  background-color: #d0d0d0;
+  border-radius   : 50%;
+  display         : inline-block;
+  height          : 20px;
+  text-align      : center;
+  width           : 20px;
+} */
+
+.social__link:hover {
+  background-color: #f89513;
+}
+
+.social__link {
+  background-color   : #d0d0d0;
+  background-image   : url("../../../../img/social/spritesheet.png");
+  background-position: center center;
+  background-repeat  : no-repeat;
+  border-radius      : 50%;
+  display            : inline-block;
+  height             : 20px;
+  transition         : background-color 0.4s ease;
+  width              : 20px;
+}
+
+.social__link--vk {
+  background-position: -170px -10px;
+}
+
+.social__link--fb {
+  background-position: -10px -10px;
+}
+
+.social__link--google {
+  background-position: -50px -10px;
+}
+
+.social__link--twitter {
+  background-position: -130px -10px;
+}
+
+.social__link--mail {
+  background-position: -90px -10px;
+}
+

@@ -1,0 +1,11 @@
+.form__trigger-icon {
+  background    : url("./../../../../img/comments/rb.png") no-repeat 0 0;
+  display       : inline-block;
+  height        : 20px;
+  vertical-align: middle;
+  width         : 20px;
+}
+
+.form__radio:checked + .form__trigger-icon {
+  background: url("./../../../../img/comments/rb-checked.png") no-repeat 0 0;
+}

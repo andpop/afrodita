@@ -1,0 +1,48 @@
+.services__logo {
+  /* border       : 1px solid #000; */
+  height       : 153px;
+  margin-bottom: 28px;
+  position     : relative;
+  width        : 250px;
+}
+
+/* Затемнение фоновой картинки */
+.services__logo:after {
+  background-color: rgba(0 ,0 ,0 , .52);
+  content         : "";
+  height          : 100%;
+  left            : 0;
+  position        : absolute;
+  top             : 0;
+  width           : 100%;
+}
+
+/* .services__logo--1 {
+  background     : url("../../../../img/services/fitness.png") 100% 100% no-repeat;
+  background-size: cover;
+}
+
+.services__logo--2 {
+  background     : url("../../../../img/services/diet.png") 100% 100% no-repeat;
+  background-size: cover;
+}
+
+.services__logo--3 {
+  background     : url("../../../../img/services/yoga.png") 100% 100% no-repeat;
+  background-size: cover;
+}
+
+.services__logo--4 {
+  background     : url("../../../../img/services/trx_small.png") 100% 100% no-repeat;
+  background-size: cover;
+}
+
+.services__logo--5 {
+  background     : url("../../../../img/services/crossfit.png") 100% 100% no-repeat;
+  background-size: cover;
+}
+
+.services__logo--6 {
+  background     : url("../../../../img/services/swimming.png") 100% 100% no-repeat;
+  background-size: cover;
+} */

@@ -1,0 +1,8 @@
+.form__trigger-title {
+  display       : inline-block;
+  vertical-align: middle;
+}
+
+.form__radio:checked + .form__trigger-icon + .form__trigger-title {
+  color: #f89513;
+}

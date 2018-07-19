@@ -1,0 +1,6 @@
+.partners__img {
+  filter: grayscale(100%);
+}
+
+.partners__img:hover {
+  filter: none;

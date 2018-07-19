@@ -1,0 +1,12 @@
+/************* Особенности ************************/
+
+.feautures {
+  background-color: #131415;
+  color           : #ffffff;
+  font-family     : 'Open Sans', Arial, sans-serif;
+  margin-bottom   : 55px;
+  padding-bottom  : 100px;
+  padding-top     : 55px;
+  text-align      : center;
+}
+

@@ -1,0 +1,12 @@
+.breadcrumbs__link {
+  opacity        : 0.8;
+  color          : #f89513;
+  text-decoration: underline;
+}
+
+
+.breadcrumbs__link--active {
+  color          : #221f1f;
+  text-decoration: none;
+
+}

@@ -1,0 +1,12 @@
+/* Навигационное меню из шапки */
+
+.menu__item {
+  display    : inline-block;
+  margin-left: 28px;
+}
+
+.menu__item:first-child {
+  margin-left: 23px;
+}
+
+

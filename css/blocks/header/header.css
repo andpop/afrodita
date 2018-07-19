@@ -1,0 +1,13 @@
+/* Блоки из шапки */
+
+.header {
+  margin-bottom   : 79px;
+  background-color: #131415;
+  padding-top     : 18px;
+}
+
+.header--comments {
+  margin-bottom: 39px;
+}
+
+

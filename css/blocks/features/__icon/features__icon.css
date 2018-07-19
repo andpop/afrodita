@@ -1,0 +1,26 @@
+/************* Особенности ************************/
+
+.feautures__icon {
+  background-color   : #f89513;
+  background-position: center center;
+  background-repeat  : no-repeat;
+  border-radius      : 50%;
+  display            : inline-block;
+  height             : 68px;
+  margin-bottom      : 40px;
+  width              : 68px;
+}
+
+.feautures__icon--block1 {
+  background-image: url("../../../../img/features/flower.png");
+}
+
+.feautures__icon--block2 {
+  background-image: url("../../../../img/features/favorite-star.png");
+}
+
+.feautures__icon--block3 {
+  background-image: url("../../../../img/features/painter-palette.png");
+}
+
+

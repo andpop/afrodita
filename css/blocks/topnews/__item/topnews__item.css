@@ -1,0 +1,7 @@
+.topnews__item {
+  margin-bottom: 15px;
+}
+
+.topnews__item:last-child {
+  margin-bottom: 0;
+}

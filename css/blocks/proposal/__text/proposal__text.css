@@ -1,0 +1,13 @@
+.proposal__text {
+  color       : #ffffff;
+  height      : 107px;
+  font-family : "Open Sans";
+  font-size   : 18px;
+  font-weight : 300;
+  line-height : 30px;
+  margin-left : auto;
+  margin-right: auto;
+  text-align  : left;
+  /* width       : 636px; */
+  width: 719px;
+}

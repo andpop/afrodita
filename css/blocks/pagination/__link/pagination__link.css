@@ -1,0 +1,21 @@
+.pagination__link {
+  color          : #221f1f;
+  display        : inline-block;
+  font-weight    : 700;
+  font-size      : 14px;
+  height         : 25px;
+  padding-top    : 4px;
+  text-align     : center;
+  text-decoration: none;
+  width          : 25px;
+}
+
+.pagination__link--active {
+  background-color: #27273e;
+  border-radius   : 3px;
+  color           : #fff;
+}
+
+.pagination__link:hover {
+  color: #f89513;
+}

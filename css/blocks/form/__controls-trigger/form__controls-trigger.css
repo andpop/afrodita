@@ -1,0 +1,7 @@
+.form__controls-trigger {
+  display     : inline-block;
+  font-size   : 14px;
+  font-weight : 300;
+  margin-right: 21px;
+  /* line-height: 54px; */
+}

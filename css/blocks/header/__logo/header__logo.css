@@ -1,0 +1,9 @@
+/* Блоки из шапки */
+
+.header__logo {
+  float         : left;
+  padding-bottom: 28px;
+  padding-top   : 12px;
+  width         : 31%;
+}
+

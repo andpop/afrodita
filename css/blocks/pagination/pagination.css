@@ -1,0 +1,12 @@
+.pagination {
+  font-family  : "Roboto", Arial, sans-serif;
+  font-size    : 14px;
+  line-height  : 21px;
+  margin-bottom: 64px;
+  padding-left : 10px;
+  text-align   : center;
+}
+
+.pagination--comments {
+  margin-bottom: 57px;
+}

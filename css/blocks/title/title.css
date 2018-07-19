@@ -1,0 +1,25 @@
+.title {
+  color         : #221f1f;
+  font-family   : "Open Sans";
+  font-size     : 49px;
+  font-weight   : 700;
+  letter-spacing: 1.47px;
+  margin-bottom : 68px;
+  text-align    : center;
+  text-transform: uppercase;
+}
+
+.title--comments {
+  margin-bottom: 41px;
+  text-align   : left;
+}
+
+.title--services {
+  margin-bottom: 10px;
+  text-align   : left;
+}
+
+.title--partners {
+  margin-bottom: 79px;
+  text-align   : left;
+}

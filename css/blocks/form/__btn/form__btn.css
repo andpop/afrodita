@@ -1,0 +1,21 @@
+.form__btn {
+  border     : none;
+  display    : inline-block;
+  min-width  : 125px;
+  min-height : 45px;
+  color      : #ffffff;
+  font-size  : 12px;
+  font-weight: 700;
+  /* line-height: 54px; */
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+
+}
+
+.form__btn--send {
+  background-color: #1c1f1d;
+}
+
+.form__btn--send:hover {
+  background-color: #f89513;
+}

@@ -1,0 +1,10 @@
+/************* Особенности ************************/
+
+.feautures__text--list {
+  text-align : left;
+  line-height: 35px;
+}
+
+.feautures__text--list li {
+  padding-left: 13px;
+}
