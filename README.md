@@ -3,4 +3,4 @@
 
 Фиксированный дизайн, блочная верстка, Pixel Perfect.
 
-Технологии: HTML5, CSS
+Технологии: HTML5, CSS, BEM naming
